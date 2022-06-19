@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**walvesnl/walvesnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wilson, a Junior Full Stack Developer from Brazil, currently living in the Netherlands.
 
-Here are some ideas to get you started:
+I recently concluded an incredible development bootcamp in Amsterdam and I'm excited to join challenging projects with a committed team!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A few of my skills:
+
+- NodeJs
+- React
+- Redux
+- Express
+- Sequelize
+- PostgreSQL
+
+Few free to contact me here or on my (https://www.linkedin.com/in/wil-alves "LinkedIn")
+
+
