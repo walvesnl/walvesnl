@@ -13,6 +13,6 @@ A few of my skills:
 - Sequelize
 - PostgreSQL
 
-Few free to contact me here or on my (https://www.linkedin.com/in/wil-alves "LinkedIn")
+Few free to contact me here or on my [LinkedIn](https://www.linkedin.com/in/wil-alves "LinkedIn")
 
 
