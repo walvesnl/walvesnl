@@ -1,17 +1,19 @@
 ### Hi there 👋
 
-I'm Wilson, a Junior Full Stack Developer from Brazil, currently living in the Netherlands.
+I'm Wilson, a Full Stack Developer from Brazil, currently living in the Netherlands.
 
-I recently concluded an incredible development bootcamp in Amsterdam and I'm excited to join challenging projects with a committed team!
+I work for a Marketing & Technology company iu Utrecht and enjoy taking part in challenging projects with a committed team!
 
 A few of my skills:
 
-- NodeJs
+- Vanilla JS
 - React
 - Redux
+- NodeJs
 - Express
 - Sequelize
 - PostgreSQL
+- Socket.io
 
 Few free to contact me here or on my [LinkedIn](https://www.linkedin.com/in/wil-alves "LinkedIn")
 
