@@ -7,6 +7,7 @@ I work for a Marketing & Technology company iu Utrecht and enjoy taking part in 
 A few of my skills:
 
 - Vanilla JS
+- TypeScript
 - React
 - Redux
 - NodeJs
